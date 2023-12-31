@@ -7,3 +7,7 @@ In medical imaging, physical phantoms refer to real objects designed to simulate
 
 ## Ihona_MBDS_P2_exercises
 In this practical session we had to work with some MR images of the brain and play around with biased and unbiased images. We explored T1 and T2 images as well as a kind of segmentation called "skull-stripping", a technique used to remove all parts of the MR image except of the brain. Having only the brain and not the rest of the tissues (scalp, neck, etc) make it easier for posterior analyses. 
+
+## IhonaCorrea_MBDS_P3_blank.ipynb
+
+This practical session was about the analysis of functional MRI. The Haxby dataset is used for this purpose. 
